@@ -14,8 +14,6 @@ public class TarotReadingApp {
         boolean keepGoing = true;
 
         while (keepGoing) {
-//        while (true) {
-//        do {
             System.out.println("당신의 운을 점칠 수 있는 타로카드 뽑기를 시작하겠습니다.");
             System.out.println("무엇이 궁금하신가요?");
 

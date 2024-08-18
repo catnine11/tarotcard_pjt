@@ -28,10 +28,8 @@ public class TarotCardService {
             return cards.get(index);
         } else {
             throw new IllegalArgumentException("등록된 카드의 개수가 " + (index + 1) + "보다 작습니다.");
-
         }
     }
-
 
     public Direction getRandomDirection() {
         return random.nextBoolean() ? Direction.UPRIGHT : Direction.REVERSED;

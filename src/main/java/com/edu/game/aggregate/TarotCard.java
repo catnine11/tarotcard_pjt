@@ -19,7 +19,6 @@ public class TarotCard extends Card {
         return name;
     }
 
-//    }
 
     @Override
     public String getMeaning(Direction direction, String keyword) {
