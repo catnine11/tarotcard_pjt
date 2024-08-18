@@ -24,4 +24,4 @@
 ## 📂 프로젝트 구조
 
 ```plaintext
-![프로젝트 구조.png](img%2F%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%A1%B0.png)
+![프로젝트 구조.png](img/프로젝트 구조.png)
