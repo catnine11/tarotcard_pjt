@@ -1,21 +1,13 @@
-## 👥 팀원
+## 👥 개발자
 <table>
   <tr>
-    <td align="center">
       <a href="https://github.com/catnine11">
-        <img src="https://avatars.githubusercontent.com/u/catnine11?v=4" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/134343781?v=4" width="100px;" alt=""/>
         <br />
         <sub><b>남가람</b></sub>
       </a>
-    </td>
   </tr>
 </table>
-
-[//]: # ([![catnine11]&#40;https://avatars.githubusercontent.com/u/catnine11?v=4&#41;])
-
-[//]: # (|:---:|)
-
-[//]: # (| [**남가람**]&#40;https://github.com/catnine11&#41; |)
 
 ----
 # 🔮 타로 리딩 앱
