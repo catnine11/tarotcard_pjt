@@ -116,5 +116,10 @@
 
 ## 🎬 시연영상
 <img src="img/while_loop_n_savefile.gif" alt="while_loop_n_savefile.gif">
+<details>
+<summary>
+</summary>
+<img src="img/db파일생성.gif" alt="db파일생성.gif">
+</details>
 
 
